@@ -1,6 +1,6 @@
 # Text-Editor
 
-[Uploading Vardhan Editor Demo.webm…]()
+[Vardhan Editor Demo.webm](https://github.com/aditya-vardhan-singh/Text-Editor/assets/137278437/4c7b231b-0d89-44dd-9a7e-2f71d2e64c5d)
 
 ![Vardhan Editor Demo 1](https://github.com/aditya-vardhan-singh/Text-Editor/assets/137278437/c14f68ed-6d25-443f-b3dd-cbfd5a3a457b)
 
