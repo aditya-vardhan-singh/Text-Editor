@@ -1,6 +1,6 @@
 # Text-Editor
 
-![Vardhan Editor Demo.webmd]
+![[Vardhan Editor Demo.webmd]]
 
 ![Vardhan Editor Demo1.png]
 
