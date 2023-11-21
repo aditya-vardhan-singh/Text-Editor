@@ -1,6 +1,10 @@
 # Vardhan-Editor
 
+## Sample Video
+
 [Vardhan Editor Demo.webm](https://github.com/aditya-vardhan-singh/Text-Editor/assets/137278437/4c7b231b-0d89-44dd-9a7e-2f71d2e64c5d)
+
+---
 
 ## Editor Screenshots
 
